@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FeedBurner Form ru_RU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-11 20:45+0400\n"
+"PO-Revision-Date: 2014-09-11 20:45+0400\n"
+"Last-Translator: Flector <rlector@gmail.com>\n"
+"Language-Team: Flector <rlector@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+# @ default
+#: ../hide-my-dates.php:85
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: ../hide-my-dates.php:88
+msgid "Hide My Dates Settings"
+msgstr "Настройки Hide My Dates"
+
+#: ../hide-my-dates.php:95
+msgid "Do you use it ?"
+msgstr "Вам нравится плагин ?"
+
+#: ../hide-my-dates.php:97
+msgid "buy me a coffee"
+msgstr "Купить мне чашку кофе :)"
+
+#: ../hide-my-dates.php:99
+msgid "Hi! I'm <strong>Flector</strong>, developer of this plugin."
+msgstr "Привет, меня зовут Flector."
+
+#: ../hide-my-dates.php:100
+msgid "I've been spending many hours to develop this plugin."
+msgstr "Я потратил много времени на разработку этого плагина."
+
+#: ../hide-my-dates.php:101
+msgid ""
+"If you like and use this plugin, you can <strong>buy me a cup of coffee</"
+"strong>."
+msgstr "Поэтому я не откажусь от небольшого пожертвования :)"
+
+#: ../hide-my-dates.php:105
+msgid "Donate with PayPal"
+msgstr "Пожертвовать через PayPal"
+
+# @ default
+#: ../hide-my-dates.php:116
+msgid "Options"
+msgstr "Опции"
+
+#: ../hide-my-dates.php:121
+msgid "Hide date"
+msgstr "Скрыть дату"
+
+#: ../hide-my-dates.php:121
+msgid "Post creation date (the_date or the_time) will be hidden from Google."
+msgstr "Дата создания записи (the_date или the_time) будет скрыта от Google."
+
+#: ../hide-my-dates.php:124
+msgid "Hide modified date"
+msgstr "Скрыть дату изменения"
+
+#: ../hide-my-dates.php:124
+msgid ""
+"The last modification date (the_modified_date or the_modified_time) will be "
+"hidden from Google."
+msgstr ""
+"Дата последнего изменения записи (the_modified_date или the_modified_time) "
+"будет скрыта от Google."
+
+#: ../hide-my-dates.php:127
+msgid "Hide dates of comments"
+msgstr "Скрыть даты комментариев"
+
+#: ../hide-my-dates.php:127
+msgid "Comment creation dates will be hidden from Google."
+msgstr "Даты создания комментариев будут скрыты от Google."
+
+#: ../hide-my-dates.php:135
+msgid "Update options &raquo;"
+msgstr "Сохранить настройки  &raquo;"
+
+# @ default
+#: ../hide-my-dates.php:146
+msgid "Help"
+msgstr "Помощь"
+
+#: ../hide-my-dates.php:148
+msgid "How it works:"
+msgstr "Как это работает:"
+
+#: ../hide-my-dates.php:149
+msgid ""
+"The plugin uses a CSS hack to show the date – your visitors see it, but "
+"Google takes it <br />for the “title” parameter of a “span” element and does "
+"not consider it to be a part of <br />the page content. Therefore, the "
+"publishing date is not shown in the search snippet."
+msgstr ""
+"Плагин использует css-хак с выводом даты - ваши посетители видят дату, а "
+"Google<br /> воспринимает ее как title атрибут у span элемента и поэтому не "
+"считает ее частью<br /> контента страницы.  "
+
+#: ../hide-my-dates.php:152
+msgid ""
+"This hack will not work if dates in your theme are not shown directly "
+"through native <br />WordPress date functions – for instance, as in Twenty "
+"Eleven, Twenty Twelve <br />and later themes. Date hiding will <strong>not "
+"work</strong> in these themes!"
+msgstr ""
+"Этот хак не будет работать, если дата в вашей теме выводится не напрямую "
+"через<br /> функции вывода дат. Как, например, в темах Twenty Eleven, Twenty "
+"Twelve и более<br /> поздних. Скрытие дат в таких темах <strong>не "
+"поддерживается</strong>!"
+
+#: ../hide-my-dates.php:154
+msgid ""
+"Some themes only show the date of the last post modification. Hide it from "
+"Google <br />if you don’t want it to appear in the search snippet."
+msgstr ""
+"В некоторых темах используется вывод даты последнего изменения записи. "
+"Скройте<br /> ее от Google, если не хотите, чтобы дата вообще присутствовала "
+"в поисковом сниппете."
+
+#: ../hide-my-dates.php:156
+msgid ""
+"If Google doesn’t find the date in a post, it will take it from the first "
+"comment on the <br />page, so hiding comment creation dates is also a good "
+"idea."
+msgstr ""
+"Если Google не найдет дату в самой записи, то он возьмет ее из первого "
+"комментария<br /> на странице. Так что спрятать дату комментариев будет тоже "
+"хорошей идеей."
+
+#: ../hide-my-dates.php:159
+msgid "I hope you will find this plugin useful."
+msgstr "Надеюсь, что плагин будет для вас полезен."
+
+#~ msgid "Only modified date in snippet"
+#~ msgstr "В сниппете только дата изменения записи"
+
+#~ msgid "В сниппете только дата изменения записи"
+#~ msgstr "Only modified date in snippet"
