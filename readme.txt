@@ -1,5 +1,6 @@
 === Hide My Dates ===
 Contributors: flector
+Donate link: http://goo.gl/CcxWYg
 Tags: date, time, hidden, hide, google, snippet, comments, search engine optimization, seo, seo pack, webmaster tools, google webmaster tools
 Requires at least: 3.0
 Tested up to: 4.0
@@ -13,6 +14,14 @@ The plugin uses a CSS hack to show the date – your visitors see it, but Google
 
 The plugin `requires` that the date in your theme be rendered `directly` though WordPress date functions.
 
+If you liked my plugin, please `rate` it.
+
+You may also like my other plugins:
+
+- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - A simple, yet very beautiful tag cloud.
+- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - This plugin allows you to hide text under the tags [spoiler]your text[/spoiler]. 
+- [Spam Notifier](http://wordpress.org/plugins/spam-notifier/) - The plugin sends an email message when a comment goes to the spam folder. 
+- [Restore Columns](http://wordpress.org/plugins/restore-columns/) - The plugin restores the possibility to select the number of columns displayed on the dashboard. 
 
 == Installation ==
 
