@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Hide My Dates
-Plugin URI: http://wordpress.org/plugins/hide-my-dates/
+Plugin URI: https://wordpress.org/plugins/hide-my-dates/
 Description: The plugin hides post and comment publishing dates from Google. Read more in the <a href="options-general.php?page=hide-my-dates.php">Help</a> section on the plugin page.
 Version: 1.01
 Author: Flector
-Author URI: http://wordpress.org/plugins/hide-my-dates/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
   
 
