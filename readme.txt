@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: date, time, hidden, hide, google, snippet, comments, search engine optimization, seo, seo pack, webmaster tools, google webmaster tools
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 The plugin hides post and comment publishing dates from Google.
